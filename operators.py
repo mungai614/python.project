@@ -27,3 +27,4 @@ print(a)
 print(34 < 50 and 56 > 200)
 print(34 < 50 or 56 > 200)
 print(not(34 < 50 or 56 > 200))
+
